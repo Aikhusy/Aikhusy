@@ -1,6 +1,6 @@
 ## AIKHUSY
 
-**Developer Kentang**  
+**Developer Simpel**  
 <table>
   <tr>
     <td><strong>Web Gw</strong></td>
@@ -24,21 +24,8 @@ Panggil Proyek Lewat dm discord 100% fast respond.
 
 ## Tool dan bahasa
 
-Gw bisa:
-- Joki Tugas Pemrograman
-- Proyek Web Laravel
-- 2D Grafik design (Vector Art, Logo Design, Poster 2D, Art)
-- Untuk game dev cuma bisa roblox wkwkw.
+**Gw bisa** : Joki Tugas Pemrograman, Proyek Web Laravel, data cleaning, 2D Grafik design (Vector Art, Logo Design, Poster 2D, Art) ,Untuk game dev cuma bisa roblox wkwkw.
 
-Tools yang gw jago:
-- Visual Studio Code 
-- Ms Excel (Sampe ngoding gw bisa)
-- Jupyter notebook
-- Adobe Photoshop (pengalaman 4 tahun)
-- Adobe Ilustrator (pengalaman 2 tahun)
-- Filmora 
+**Tools** : Visual Studio Code, Ms Excel (Sampe ngoding gw bisa), Jupyter notebook, Adobe Photoshop (pengalaman 4 tahun), Adobe Ilustrator (pengalaman 2 tahun), Filmora 
 
-Bahasa:
-- Indonesia
-- English American
-- Python, java, C, C++, SQL, MQL, HTML, CSS, JS, PHP, Dart, Lua, Visual Basic, GO, swift.
+**Bahasa** : Indonesia, English American, Python, java, C, C++, SQL, MQL, HTML, CSS, JS, PHP, Dart, Lua, Visual Basic, GO, swift.
