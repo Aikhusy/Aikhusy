@@ -1,16 +1,44 @@
-### Hi there 👋
+## AIKHUSY
 
-<!--
-**Aikhusy/Aikhusy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Developer Kentang**  
+<table>
+  <tr>
+    <td><strong>Web Gw</strong></td>
+    <td> <a href="https://aikhusy.github.io/">https://aikhusy.github.io/</a></td>
+  </tr>
+  <tr>
+    <td><strong>Discord</strong></td>
+    <td> Aikhusy/aikhusy</td>
+  </tr>
+  <tr>
+    <td><strong>Instagram</strong></td>
+    <td> @Aikhusy</td>
+  </tr>
+  <tr>
+    <td><strong>Email</strong></td>
+    <td> heymepoo@gmail.com</td>
+  </tr>
+</table>
 
-Here are some ideas to get you started:
+Panggil Proyek Lewat dm discord 100% fast respond.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tool dan bahasa
+
+Gw bisa:
+- Joki Tugas Pemrograman
+- Proyek Web Laravel
+- 2D Grafik design (Vector Art, Logo Design, Poster 2D, Art)
+- Untuk game dev cuma bisa roblox wkwkw.
+
+Tools yang gw jago:
+- Visual Studio Code 
+- Ms Excel (Sampe ngoding gw bisa)
+- Jupyter notebook
+- Adobe Photoshop (pengalaman 4 tahun)
+- Adobe Ilustrator (pengalaman 2 tahun)
+- Filmora 
+
+Bahasa:
+- Indonesia
+- English American
+- Python, java, C, C++, SQL, MQL, HTML, CSS, JS, PHP, Dart, Lua, Visual Basic, GO, swift.
