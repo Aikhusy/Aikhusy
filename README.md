@@ -29,3 +29,5 @@ Panggil Proyek Lewat dm discord 100% fast respond.
 **Tools** : Visual Studio Code, Ms Excel (Sampe ngoding gw bisa), Jupyter notebook, Adobe Photoshop (pengalaman 4 tahun), Adobe Ilustrator (pengalaman 2 tahun), Filmora 
 
 **Bahasa** : Indonesia, English American, Python, java, C, C++, SQL, MQL, HTML, CSS, JS, PHP, Dart, Lua, Visual Basic, GO, swift.
+
+**Expertise** : PHP, SQL, Python, Adobe Photoshop, Adobe Illustrator, 
