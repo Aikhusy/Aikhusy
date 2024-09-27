@@ -33,4 +33,4 @@ Panggil Proyek Lewat dm discord 100% fast respond.
 **Expertise** : PHP, SQL, Python, Adobe Photoshop, Adobe Illustrator, 
 
 ## FUN FACT 
-penggemar berat aikhusy -> <a href="https://aikhusy.github.io/">Lukas</a></td>
+penggemar berat aikhusy -> <a href="https://github.com/lukasvalentino971">Lukas</a></td>
