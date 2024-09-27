@@ -31,3 +31,6 @@ Panggil Proyek Lewat dm discord 100% fast respond.
 **Bahasa** : Indonesia, English American, Python, java, C, C++, SQL, MQL, HTML, CSS, JS, PHP, Dart, Lua, Visual Basic, GO, swift.
 
 **Expertise** : PHP, SQL, Python, Adobe Photoshop, Adobe Illustrator, 
+
+## FUN FACT 
+penggemar berat aikhusy -> <a href="https://aikhusy.github.io/">Lukas</a></td>
