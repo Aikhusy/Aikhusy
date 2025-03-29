@@ -1,36 +1,36 @@
-## AIKHUSY
 
-**Developer Simpel**  
-<table>
-  <tr>
-    <td><strong>Web Gw</strong></td>
-    <td> <a href="https://aikhusy.github.io/">https://aikhusy.github.io/</a></td>
-  </tr>
-  <tr>
-    <td><strong>Discord</strong></td>
-    <td> Aikhusy/aikhusy</td>
-  </tr>
-  <tr>
-    <td><strong>Instagram</strong></td>
-    <td> @Aikhusy</td>
-  </tr>
-  <tr>
-    <td><strong>Email</strong></td>
-    <td> heymepoo@gmail.com</td>
-  </tr>
-</table>
 
-Panggil Proyek Lewat dm discord 100% fast respond.
+## AIKHUSY  
 
-## Tool dan bahasa
+**Software & Network Automation Enthusiast**  
 
-**Open Work For** : Joki Tugas Pemrograman, Proyek Web Laravel, data cleaning, 2D Grafik design (Vector Art, Logo Design, Poster 2D, Art) ,Untuk game dev cuma bisa roblox.
+🔗 **Portfolio**: [aikhusy.github.io](https://aikhusy.github.io/)  
+💬 **Discord**: Aikhusy/aikhusy  
+📷 **Instagram**: @Aikhusy  
+📧 **Email**: heymepoo@gmail.com  
 
-**Tools** : Visual Studio Code, Ms Excel (Sampe ngoding gw bisa), Jupyter notebook, Adobe Photoshop (Start 2015), Adobe Ilustrator (Start 2017), Filmora(start 2017), METABASE, Snowflake, SQL SERVER
+📩 **Fast Response** via Discord DM  
 
-**Bahasa** : Indonesia, English American, Python, java, C, C++, SQL, MQL, HTML, CSS, JS, PHP, Dart, Lua, Visual Basic, GO, swift,shell.
+---
 
-**Expertise** : PHP, SQL, Python, Adobe Photoshop, Adobe Illustrator, .NET .
+## Keahlian & Layanan  
 
-## FUN FACT 
-penggemar berat aikhusy -> <a href="https://github.com/lukasvalentino971">Lukas</a></td>
+🛠 **Open Work For**:  
+- Full Stack Software
+- Basic - Advanced Programming Mentor
+- Network Infrastucture
+- Desain Grafis 2D (Vector Art, Logo, Poster)  
+- Game Dev (Roblox)  
+
+💻 **Tools**:  
+- Visual Studio Code, Jupyter Notebook, Ms Excel (termasuk scripting)  
+- Adobe Photoshop (2015), Illustrator (2017), Filmora (2017)  
+- Metabase, Snowflake, SQL Server  
+
+🌐 **Bahasa & Teknologi**:  
+- **Expertise**: PHP, SQL, Python, .NET, Java, , Lua, Adobe Photoshop & Illustrator  
+- **Familiar**: MQL, HTML, CSS, JS, PHP, Dart VB, Go, Swift, Shell  
+
+---
+
+Lebih profesional, tetap informatif, dan tidak berlebihan. 😊
