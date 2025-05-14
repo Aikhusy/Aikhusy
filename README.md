@@ -7,30 +7,30 @@
 🔗 **Portfolio**: [aikhusy.github.io](https://aikhusy.github.io/)  
 💬 **Discord**: Aikhusy/aikhusy  
 📷 **Instagram**: @Aikhusy  
-📧 **Email**: heymepoo@gmail.com  
+📧 **Email**: syaikhulshafwanr@gmail.com  
 
 📩 **Fast Response** via Discord DM  
 
 ---
 
-## Keahlian & Layanan  
+## Yang Saya Bisa
 
 🛠 **Open Work For**:  
-- Full Stack Software
-- Basic - Advanced Programming Mentor
-- Network Infrastucture
+- Full Stack web dev Laravel, Flask, .Net Core
+- Network Infrastucture 
 - Desain Grafis 2D (Vector Art, Logo, Poster)  
-- Game Dev (Roblox)  
+- Game Dev (Roblox)
+- AI Machine Learning dikit dikit
 
 💻 **Tools**:  
-- Visual Studio Code, Jupyter Notebook, Ms Excel (termasuk scripting)  
+- Visual Studio Code, Jupyter Notebook, Ms Excel
 - Adobe Photoshop (2015), Illustrator (2017), Filmora (2017)  
 - Metabase, Snowflake, SQL Server  
 
 🌐 **Bahasa & Teknologi**:  
-- **Expertise**: PHP, SQL, Python, .NET, Java, , Lua, Adobe Photoshop & Illustrator  
-- **Familiar**: MQL, HTML, CSS, JS, PHP, Dart VB, Go, Swift, Shell  
+- **Seing pakai**: PHP, SQL, Python, .NET, Java, , Lua, Adobe Photoshop & Illustrator  
+- **Familiar**: MQL, HTML, CSS, JS, Dart VB, Go, Swift, Shell, LDAP
+- **Teknologi Gacor buat devop**: Redis, MsBroker, Apache, Windows Server 2016 
 
 ---
-
 Lebih profesional, tetap informatif, dan tidak berlebihan. 😊
